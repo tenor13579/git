@@ -3,8 +3,8 @@ import Page3 from "./pages/Page3"
 import HomePage from "./pages/HomePage"
 import { Routes, Route} from "react-router-dom"
 import Footbar from "./component/Footbar"
-import Page1 from "./pages/page1"
-import Page2 from "./pages/page2"
+import Page1 from "./pages/Page1"
+import Page2 from "./pages/Page2"
 import Sidebar from "./component/Sidebar"
 
 
