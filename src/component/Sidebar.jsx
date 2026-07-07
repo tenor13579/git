@@ -13,7 +13,7 @@ const Sidebar = () => {
       display="flex"
       flexDirection="column"
     >
-      Sidebar
+      Side
     </Box>
   )
 }

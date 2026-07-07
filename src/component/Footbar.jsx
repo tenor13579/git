@@ -13,7 +13,7 @@ const Footbar = () => {
       display="flex"
       flexDirection="column"
     >
-      footbar
+      foot
     </Box>
   )
 }
