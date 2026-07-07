@@ -7,7 +7,7 @@ import { Provider } from './components/ui/provider.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename="/git">
       <Provider>
       <App />
       </Provider>
